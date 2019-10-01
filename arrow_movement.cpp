@@ -39,9 +39,6 @@ void status_bar(int rows, int cols){
 	cout<<"\n";
 	cout<<"Please type your command: ";
 	cout<<endl;
-	// for(int i=1;i<=cols;i++){
-	// 	cout<<"-";
-	// }
 }
 
 void arrow_movement(struct dirent **namelist,int n){
